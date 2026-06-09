@@ -13,13 +13,13 @@ I merged the trade data with historical sentiment index data, and a few clear pa
 ### The Visual Evidence
 
 **1. Market Sentiment vs. Trader Performance**
-![Sentiment Performance](./plot1_sentiment_performance.png)
+![Sentiment Performance]("C:\Users\Kush\Downloads\Projects\primetrade_task\plot1_sentiment_performance.png")
 
 **2. Directional Bias (Long vs. Short)**
-![Long vs Short](./plot2_long_short_sentiment.png)
+![Long vs Short]("C:\Users\Kush\Downloads\Projects\primetrade_task\plot2_long_short_sentiment.png")
 
 **3. Aggregate Daily PnL Timeline**
-![Daily PnL](./plot3_daily_pnl_timeline.png)
+![Daily PnL]("C:\Users\Kush\Downloads\Projects\primetrade_task\plot3_daily_pnl_timeline.png")
 
 ### Repo Contents
 
